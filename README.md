@@ -1,5 +1,3 @@
-# Team_49 Handwritten Digit Reconizer
-
 ## --- Project Background ---
 
 This is a short project which required us to build a software that takes and recognizes user drawn digits 0-9. We were free to use any pre-existing models to predict 
